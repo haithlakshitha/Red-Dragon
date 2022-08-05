@@ -43,7 +43,7 @@ global.callblock = "false" // call block "true" / "false" (CALL ගන්න අ
 global.antibad = "false" // To remove bad word senders
 
 global.owner = ['
-global.ownertag = '+380944814219' //ur tag number
+global.ownertag = '+94 77 507 3130' //ur tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
